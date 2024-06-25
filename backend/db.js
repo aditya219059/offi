@@ -8,4 +8,4 @@ const connectmd = () => {
     })
 }
 
-module.export = connectmd;
+module.exports = connectmd;
